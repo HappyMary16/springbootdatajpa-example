@@ -1,0 +1,8 @@
+POST http://localhost:8080/cats
+Content-Type: application/json
+
+{
+  "name": "Oscar",
+  "behaviour": "CALM",
+  "birthday": "2024-03-25T10:44:11.716790Z"
+}
